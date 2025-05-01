@@ -1,4 +1,4 @@
-# 🚗 Indian Used Car Price Prediction
+# 🚗 Indian Used Car Price Prediction By Manav Desai and Tushar Madan
 
 ![Car GIF](https://cdn.pixabay.com/animation/2023/01/24/23/10/23-10-50-478_512.gif)
 
